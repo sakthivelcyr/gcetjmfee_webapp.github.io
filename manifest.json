@@ -1,6 +1,6 @@
 {
-    "name": "gcetjmfee_webappv2",
-    "short_name": "gcetjmfee_webappv2",
+    "name": "demo_webapp",
+    "short_name": "demo_webapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
